@@ -17,7 +17,7 @@ function Nav() {
             <Logo />
         </A>
         <div class="navItems">
-            <a href="https://discord.com/invite/yk33HZSZkU" class="navItem">
+            <a href="https://lms.lausd.net/home" class="navItem">
                 <SiDiscord fill="var(--text-inverse)" />
             </a>
             <a href="https://github.com/cognetwork-dev/Galaxy" class="navItem">
